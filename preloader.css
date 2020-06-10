@@ -1,0 +1,12 @@
+.preloader {
+    position: fixed;
+    z-index: 120;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: white;
+    background: url(https://cdn.dribbble.com/users/216925/screenshots/2044807/bolt.gif);
+    background-position: center;
+    background-size: cover;
+}
